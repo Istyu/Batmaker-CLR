@@ -1,2 +1,1 @@
-# Batmaker-CLR
-You can create cod4 mod.ff compiler .bat with this maker.
+You can create Call of Duty4 mod.ff compiler .bat with this maker. 
