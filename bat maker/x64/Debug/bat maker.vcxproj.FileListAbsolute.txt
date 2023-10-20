@@ -1,0 +1,4 @@
+C:\Users\Balogh Istvan\source\bat maker\bat maker\x64\Debug\bat maker.vcxproj.AssemblyReference.cache
+C:\Users\Balogh Istvan\source\bat maker\bat maker\x64\Debug\bat maker.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Balogh Istvan\source\bat maker\bat maker\x64\Debug\batmaker.mfr.resources
+C:\Users\Balogh Istvan\source\bat maker\bat maker\x64\Debug\bat maker.vcxproj.GenerateResource.cache

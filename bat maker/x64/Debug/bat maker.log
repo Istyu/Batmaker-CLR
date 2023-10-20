@@ -1,0 +1,4 @@
+﻿  mfr.cpp
+C:\Users\Balogh Istvan\source\bat maker\bat maker\mfr.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  mfr.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  bat maker.vcxproj -> C:\Users\Balogh Istvan\source\bat maker\x64\Debug\bat maker.exe
